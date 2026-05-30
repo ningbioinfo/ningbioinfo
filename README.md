@@ -11,32 +11,44 @@
 - 🌐 Website: **<https://ningbioinfo.github.io>**
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=EiG5GBEAAAAJ&hl=en) · 📫 ning.liu@adelaide.edu.au
 
+<p align="center">
+<a href="https://ningbioinfo.github.io"><img src="https://img.shields.io/badge/Website-ningbioinfo.github.io-FF2A6D?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=15132E"></a>
+<a href="https://scholar.google.com/citations?user=EiG5GBEAAAAJ&hl=en"><img src="https://img.shields.io/badge/Citations-460-05D9E8?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=15132E"></a>
+<img src="https://img.shields.io/badge/h--index-10-B14AED?style=for-the-badge&logo=academia&logoColor=white&labelColor=15132E">
+<img src="https://komarev.com/ghpvc/?username=ningbioinfo&style=for-the-badge&color=FF8C42&label=PROFILE+VIEWS">
+</p>
+
 ### Here's some stats on my GitHub repos
 
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=ningbioinfo&theme=synthwave&hide_border=true&border_radius=10&ring=FF2A6D&fire=05D9E8&currStreakLabel=FF2A6D&sideNums=05D9E8&sideLabels=FF2A6D&dates=9AA0C3">
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ningbioinfo&theme=synthwave&hide_border=true&bg_color=15132E&color=05D9E8&line=FF2A6D&point=FFFFFF&area=true&radius=8">
+</p>
+
+<details>
+<summary>📊 More stats (loads when the card service is up)</summary>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ningbioinfo&count_private=true&show_icons=true&theme=synthwave&hide_border=true&icon_color=05D9E8&title_color=FF2A6D">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ningbioinfo&hide=html&theme=synthwave&hide_border=true&layout=compact&title_color=FF2A6D">
 </p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ningbioinfo&theme=synthwave&hide_border=true&ring=FF2A6D&fire=05D9E8&currStreakLabel=FF2A6D">
-</p>
-
-*Courtesy of <https://github.com/anuraghazra/github-readme-stats>*
+</details>
 
 ### My recent GitHub activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-### 🛠️ Selected tools & languages
+### 🛠️ Toolbox
 
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Bioconductor](https://img.shields.io/badge/Bioconductor-1F65B7?style=flat&logo=r&logoColor=white)
-![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?style=flat&logo=nextflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Bioconductor](https://img.shields.io/badge/Bioconductor-1F65B7?style=flat-square&logo=r&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?style=flat-square&logo=nextflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 *Find out more at <https://ningbioinfo.github.io>* 🌆
