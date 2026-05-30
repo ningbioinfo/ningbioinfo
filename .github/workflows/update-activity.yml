@@ -13,10 +13,44 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Update recent activity
-        uses: jamesgeorge007/github-activity-readme@master
+      - name: Update recent activity section
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "chore: update recent GitHub activity"
-          MAX_LINES: 10
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PYEOF'
+          import json, urllib.request, re, os
+          token = os.environ["GH_TOKEN"]
+          req = urllib.request.Request(
+              "https://api.github.com/users/ningbioinfo/events/public?per_page=30",
+              headers={"Authorization": f"Bearer {token}",
+                       "Accept": "application/vnd.github+json"})
+          events = json.load(urllib.request.urlopen(req))
+          emoji = {"PushEvent": "📨 Pushed to", "PullRequestEvent": "🔀 Opened a PR in",
+                   "IssuesEvent": "🤔 Opened an issue in", "IssueCommentEvent": "🗣 Commented in",
+                   "CreateEvent": "✨ Created", "WatchEvent": "⭐ Starred",
+                   "ForkEvent": "🍴 Forked", "ReleaseEvent": "🚀 Released in",
+                   "DeleteEvent": "🗑 Removed a ref in"}
+          seen, lines = set(), []
+          for e in events:
+              key = (e["type"], e["repo"]["name"])
+              if key in seen:
+                  continue
+              seen.add(key)
+              label = emoji.get(e["type"], e["type"])
+              lines.append(f"- {label} [{e['repo']['name']}](https://github.com/{e['repo']['name']})")
+              if len(lines) >= 8:
+                  break
+          block = "\n".join(lines) if lines else "- _No recent public activity_"
+          readme = open("README.md").read()
+          readme = re.sub(r"<!--START_SECTION:activity-->.*?<!--END_SECTION:activity-->",
+                          "<!--START_SECTION:activity-->\n" + block + "\n<!--END_SECTION:activity-->",
+                          readme, flags=re.S)
+          open("README.md", "w").write(readme)
+          PYEOF
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update recent GitHub activity"
+          git push
