@@ -43,7 +43,6 @@
 - ✨ Created [ningbioinfo/ningbioinfo](https://github.com/ningbioinfo/ningbioinfo)
 - 📨 Pushed to [ningbioinfo/ningbioinfo.github.io](https://github.com/ningbioinfo/ningbioinfo.github.io)
 - ✨ Created [ningbioinfo/ningbioinfo.github.io](https://github.com/ningbioinfo/ningbioinfo.github.io)
-- 📨 Pushed to [MangiolaLaboratory/cellNexus_article](https://github.com/MangiolaLaboratory/cellNexus_article)
 <!--END_SECTION:activity-->
 
 ### 🛠️ Toolbox
