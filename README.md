@@ -45,8 +45,6 @@
 - 🗑 Removed a ref in [DavisLaboratory/standR](https://github.com/DavisLaboratory/standR)
 - ✨ Created [DavisLaboratory/standR](https://github.com/DavisLaboratory/standR)
 - 📨 Pushed to [ningbioinfo/ningbioinfo.github.io](https://github.com/ningbioinfo/ningbioinfo.github.io)
-- 📨 Pushed to [ningbioinfo/ningbioinfo](https://github.com/ningbioinfo/ningbioinfo)
-- ✨ Created [ningbioinfo/ningbioinfo](https://github.com/ningbioinfo/ningbioinfo)
 <!--END_SECTION:activity-->
 
 ### 🛠️ Toolbox
