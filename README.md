@@ -43,8 +43,6 @@
 - 📨 Pushed to [DavisLaboratory/standR](https://github.com/DavisLaboratory/standR)
 - 🔀 Opened a PR in [DavisLaboratory/standR](https://github.com/DavisLaboratory/standR)
 - 🤔 Opened an issue in [DavisLaboratory/standR](https://github.com/DavisLaboratory/standR)
-- 🗑 Removed a ref in [DavisLaboratory/standR](https://github.com/DavisLaboratory/standR)
-- ✨ Created [DavisLaboratory/standR](https://github.com/DavisLaboratory/standR)
 <!--END_SECTION:activity-->
 
 ### 🛠️ Toolbox
