@@ -41,8 +41,6 @@
 <!--START_SECTION:activity-->
 - 📨 Pushed to [ningbioinfo/ningbioinfo.github.io](https://github.com/ningbioinfo/ningbioinfo.github.io)
 - 📨 Pushed to [DavisLaboratory/standR](https://github.com/DavisLaboratory/standR)
-- 🔀 Opened a PR in [DavisLaboratory/standR](https://github.com/DavisLaboratory/standR)
-- 🤔 Opened an issue in [DavisLaboratory/standR](https://github.com/DavisLaboratory/standR)
 <!--END_SECTION:activity-->
 
 ### 🛠️ Toolbox
