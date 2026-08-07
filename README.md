@@ -41,7 +41,6 @@
 <!--START_SECTION:activity-->
 - 📨 Pushed to [MangiolaLaboratory/cellNexus_article](https://github.com/MangiolaLaboratory/cellNexus_article)
 - 📨 Pushed to [ningbioinfo/ningbioinfo.github.io](https://github.com/ningbioinfo/ningbioinfo.github.io)
-- 📨 Pushed to [DavisLaboratory/standR](https://github.com/DavisLaboratory/standR)
 <!--END_SECTION:activity-->
 
 ### 🛠️ Toolbox
