@@ -42,7 +42,6 @@
 - 📨 Pushed to [ningbioinfo/ningbioinfo.github.io](https://github.com/ningbioinfo/ningbioinfo.github.io)
 - 🗑 Removed a ref in [Monash-Li-Lab/scProkaR](https://github.com/Monash-Li-Lab/scProkaR)
 - 📨 Pushed to [Monash-Li-Lab/scProkaR](https://github.com/Monash-Li-Lab/scProkaR)
-- PublicEvent [Monash-Li-Lab/scProkaR](https://github.com/Monash-Li-Lab/scProkaR)
 <!--END_SECTION:activity-->
 
 ### 🛠️ Toolbox
