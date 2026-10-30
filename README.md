@@ -39,6 +39,7 @@
 ### My recent GitHub activity
 
 <!--START_SECTION:activity-->
+- 📨 Pushed to [DavisLaboratory/hoodscanR](https://github.com/DavisLaboratory/hoodscanR)
 - 📨 Pushed to [Monash-Li-Lab/scProkaR](https://github.com/Monash-Li-Lab/scProkaR)
 - 📨 Pushed to [ningbioinfo/ningbioinfo.github.io](https://github.com/ningbioinfo/ningbioinfo.github.io)
 <!--END_SECTION:activity-->
