@@ -39,6 +39,8 @@
 ### My recent GitHub activity
 
 <!--START_SECTION:activity-->
+- 🤔 Opened an issue in [DavisLaboratory/standR](https://github.com/DavisLaboratory/standR)
+- 🗣 Commented in [DavisLaboratory/standR](https://github.com/DavisLaboratory/standR)
 - 📨 Pushed to [DavisLaboratory/standR](https://github.com/DavisLaboratory/standR)
 - 📨 Pushed to [DavisLaboratory/hoodscanR](https://github.com/DavisLaboratory/hoodscanR)
 - 📨 Pushed to [Monash-Li-Lab/scProkaR](https://github.com/Monash-Li-Lab/scProkaR)
