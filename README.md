@@ -39,6 +39,7 @@
 ### My recent GitHub activity
 
 <!--START_SECTION:activity-->
+- 📨 Pushed to [DavisLaboratory/GeoMXAnalysisWorkflow](https://github.com/DavisLaboratory/GeoMXAnalysisWorkflow)
 - 📨 Pushed to [ningbioinfo/ningbioinfo.github.io](https://github.com/ningbioinfo/ningbioinfo.github.io)
 - 🤔 Opened an issue in [DavisLaboratory/standR](https://github.com/DavisLaboratory/standR)
 - 🗣 Commented in [DavisLaboratory/standR](https://github.com/DavisLaboratory/standR)
